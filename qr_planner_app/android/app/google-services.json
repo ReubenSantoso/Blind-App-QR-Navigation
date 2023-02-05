@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963246929571",
+    "project_id": "blind-navigation-app-68681",
+    "storage_bucket": "blind-navigation-app-68681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963246929571:android:cbda3f297b61de6d9df116",
+        "android_client_info": {
+          "package_name": "com.navigation.app.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963246929571-155jtmne4ei5lojjltbq08rkv58216qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd9CFq35wzjkjYxJ8iXpZe4Pekrfl74tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963246929571-155jtmne4ei5lojjltbq08rkv58216qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
